@@ -13,8 +13,8 @@
 
 <resources>
 
-    <string name="application_name">&TERMUX_APP_NAME;</string>
-    <string name="shared_user_label">&TERMUX_APP_NAME; user</string>
+    <string name="application_name">panam</string>
+    <string name="shared_user_label">panam user</string>
 
 
 
